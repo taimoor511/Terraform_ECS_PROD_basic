@@ -1,3 +1,4 @@
+aws_region = "sa-east-1"
 project_name = "Taimoor"
 environment  = "Prod"
 vpc_cidr     = "11.0.0.0/16"
